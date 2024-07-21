@@ -1,1 +1,3 @@
-![Word Recommender System](https://github.com/Mohamed-Abdirizak/Getting-Started-with-NLP-Section-11-Language-Model-/assets/63655278/eea36704-d464-48dc-8840-7187655f557d)
+This is how the deployment look like:
+
+![next_word_recommender_system](https://github.com/user-attachments/assets/61f633ce-2270-4466-b66d-5a7cf2f6f339)
